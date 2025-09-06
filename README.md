@@ -4,7 +4,6 @@
 Open your terminal in the project folder and run:
 ```bash
 node blockchain.js
-## Screenshots
 
 ### Mining Output
 Mining required finding hashes with `000` prefix and nonce attempts.
